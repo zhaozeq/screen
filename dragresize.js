@@ -1,11 +1,9 @@
 /*
-
+author:zhaozeqing
 DragResize v1.0
+Date:2017.1.13
 (c)车轮
-
 */
-
-
 if (typeof addEvent != 'function') { var addEvent = function(o, t, f, l) { var d = 'addEventListener',
             n = 'on' + t,
             rO = o,
